@@ -1,0 +1,7 @@
+<paste log output from Docker prediction, here>
+172.17.0.1 - - [12/May/2021 04:24:37] "POST /predict HTTP/1.1" 200
+
+172.17.0.1 - - [12/May/2021 04:20:59] "GET / HTTP/1.1" 200 -
+172.17.0.1 - - [12/May/2021 04:21:41] "GET / HTTP/1.1" 200 -
+[2021-05-12 04:23:24,381] INFO in app: JSON payload:
+{'CHAS': {'0': 0}, 'RM': {'0': 6.575}, 'TAX': {'0': 296.0}, 'PTRATIO': {'0': 15.3}, 'B': {'0': 396.9}, 'LSTAT': {'0': 4.98}}
