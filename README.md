@@ -1,5 +1,6 @@
 ## passed
-[![CircleCI](https://circleci.com/github/walaaelgenidy/Operationalize-a-Machine-Learning-Microservice-API.svg?style=svg)] (https://github.com/walaaelgenidy/Operationalize-a-Machine-Learning-Microservice-API)
+=for HTML <a href="https://github.com/walaaelgenidy/Operationalize-a-Machine-Learning-Microservice-API"><img src="https://circleci.com/gh/circleci/circleci-docs.svg?style=svg"></a>
+
 
 .....................................................................................
 
