@@ -2,7 +2,6 @@ Flask
 numpy
 pandas
 scikit-learn
-pylintappdirs
 argon2-cffi==20.1.0
 astroid==2.5.6
 async-generator==1.10
