@@ -1,4 +1,7 @@
 <paste log output from Kubernetes-mediated prediction, here>
+Error from server (AlreadyExists): pods "mldemo" already exists
 NAME     READY   STATUS    RESTARTS   AGE
-mldemo   1/1     Running   0          2m12s
+mldemo   1/1     Running   0          7m4s
 Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+Handling connection for 8000
